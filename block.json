@@ -1,0 +1,10 @@
+{
+  "$schema": "https://schemas.wp.org/trunk/block.json",
+  "apiVersion": 3,
+  "name": "piotrpress/meta-block",
+  "version": "0.1.0",
+  "title": "Meta Block",
+  "category": "text",
+  "icon": "block-default",
+  "editorScript": "file:./build/index.js"
+}
